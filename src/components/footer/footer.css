@@ -1,0 +1,21 @@
+.footer {
+  background-color: #043caa;
+  display: flex;
+  flex-direction: column;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.fotext{
+  color: #ffff;
+}
+
+.set{
+  margin-bottom: 50px;
+}

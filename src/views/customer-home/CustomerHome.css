@@ -1,0 +1,47 @@
+.middle {
+  display: flex;
+  flex-direction: column;
+
+  margin: 20px;
+  margin-bottom: 20px;
+}
+.middle > h3 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #043caa;
+  align-self: center;
+  font-style: ubuntu;
+}
+
+.sec {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
+.text > h4 {
+  color: blue;
+  font-size: 30px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  margin: 5%;
+}
+.row img {
+  margin-right: 10px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+.card{
+  width: 18rem;
+  align-content: center;
+}
